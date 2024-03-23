@@ -63,8 +63,20 @@ body {
   height: 150px;
   border-radius: 50%;
   background-color: var(--orange);
+/*  opacity: 0.5;*/
+}
+/*
+.circle1 {
+  position: absolute;
+  top: 3rem;
+  right: 3rem;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: var(--orange);
   opacity: 0.5;
 }
+*/
 
 // parallax-styles
 
